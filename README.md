@@ -6,7 +6,8 @@
 ---
 
 ## Tecnologías
-- **Lenguajes:** JavaScript, Python, C++, Java  
+- **Lenguajes:** JavaScript, Python, C++, Java
+- **Front-End:** HTML, XML, CSS
 - **Otros:** Git, Linux  
 
 ---
@@ -15,4 +16,6 @@
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=EloyRS&show_icons=true&theme=tokyonight)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EloyRS&layout=compact&theme=tokyonight)
+## Socials
+![LeetCode Stats](https://leetcard.jacoblin.cool/EagleRubio?theme=dark&font=Nunito&ext=heatmap)
 
