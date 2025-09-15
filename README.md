@@ -3,8 +3,6 @@
 💻 Estudiante de ingenieria de Software | Apasionado del mundo de la automoción
 
 ![Coche loop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt4cnFpZjU3aGx0M3g1cTg2b3V0N2l3Z2lsZmc0eTlydGtnaWxycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1zRfp0Jwsag4yPekP4/giphy.gif)
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
 
 ## Tecnologías
 - **Lenguajes:** JavaScript, Python, C++, Java
