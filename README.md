@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Eloy]
+# 👋 ¡Hola! Soy Eloy Rubio
 
 💻 Estudiante de ingenieria de Software 
 
@@ -11,9 +11,9 @@
 ---
 
 ## Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=EloyRS&show_icons=true&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EloyRS&layout=compact&theme=tokyonight)
 
 ![Racha de contribuciones](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight)
 
