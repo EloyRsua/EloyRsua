@@ -17,7 +17,7 @@
 
 
 ---
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/EloyRsua/EloyRsua/blob/output/github-contribution-grid-snake.gif)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EloyRS&layout=compact&theme=tokyonight)
 ## Socials
