@@ -15,9 +15,7 @@
 ![C#](https://img.shields.io/badge/C%23-%20-purple?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-%20-lightgrey?style=for-the-badge&logo=java&logoColor=white)
 
-
 ---
-![snake gif](https://github.com/EloyRsua/EloyRsua/blob/output/github-contribution-grid-snake.gif)
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EloyRS&layout=compact&theme=tokyonight)
 ## Socials
