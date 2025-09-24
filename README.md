@@ -1,8 +1,12 @@
-# 👋 ¡Hola! Soy Eloy Rubio
+# Aquí Eloy Rubio
 
-💻 Estudiante de ingenieria de Software | Apasionado del mundo de la automoción
+Estudiante de ingenieria de Software 
+## Intereses
+- Automoción
+- Defensa
+- Sistemas Embebidos
 
-![Coche loop](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt4cnFpZjU3aGx0M3g1cTg2b3V0N2l3Z2lsZmc0eTlydGtnaWxycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1zRfp0Jwsag4yPekP4/giphy.gif)
+![F-16](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDBlbmV3ZWw2dW0zNGprMHA5ODYwa3BmeTA4dHFjYmZpZTNmNXQ5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LwewuDvNm6VFCSTh3w/giphy.gif)
 
 ## Mis Habilidades
 
