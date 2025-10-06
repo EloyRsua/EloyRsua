@@ -23,5 +23,5 @@ Estudiante de ingenieria de Software
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EloyRsua&layout=compact&theme=tokyonight)
 ## Socials
-![LeetCode Stats](https://leetcard.jacoblin.cool/EagleRubio?theme=dark&font=Nunito&ext=heatmap)
+
 
