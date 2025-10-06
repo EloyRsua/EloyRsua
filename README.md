@@ -22,7 +22,7 @@ Estudiante de ingenieria de Software
 ---
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EloyRsua&layout=compact&theme=tokyonight)
-![Metrics](https://metrics.lecoq.io/TU_USUARIO?template=classic&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&achievements=1&notable=1)
+![Tu GitHub Stats](https://github-readme-stats.vercel.app/api?username=EloyRsua&show_icons=true&theme=radical)
 
 
 
